@@ -1,0 +1,6 @@
+a=input()
+arr=a.split("-")
+y=int(arr[2])
+d=int(arr[1])
+m=int(arr[0])
+print(f"{y}.{m}.{d}")
